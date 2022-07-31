@@ -1,0 +1,10 @@
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\bin\Debug\Copy_MemoryAddress.exe.config
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\bin\Debug\Copy_MemoryAddress.exe
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\bin\Debug\Copy_MemoryAddress.pdb
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.csproj.AssemblyReference.cache
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.Form1.resources
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.Properties.Resources.resources
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.csproj.GenerateResource.cache
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.csproj.CoreCompileInputs.cache
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.exe
+D:\dev\C#Work\Copy_MemoryAddress\Copy_MemoryAddress\obj\Debug\Copy_MemoryAddress.pdb
