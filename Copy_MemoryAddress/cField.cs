@@ -8,5 +8,6 @@ namespace Copy_MemoryAddress
 {
     class cField
     {
+        public int iValue;  //값
     }
 }
